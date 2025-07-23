@@ -52,13 +52,12 @@
     "zone_display_mode": 0
   },
   "git": {
-    "repo_password": "",
     "repo_type": "",
     "repo_username": "",
     "ssh_key": ""
   },
   "meta": {
-    "filename": "receiverv4_eth.kicad_prl",
+    "filename": "receiverv5_eth.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {

@@ -16129,7 +16129,7 @@
 			)
 		)
 		(property "Value" "3.3k"
-			(at 297.942 232.41 90)
+			(at 299.72 232.156 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18872,7 +18872,7 @@
 		(dnp no)
 		(uuid "a2b23bda-6ea7-43bb-8cef-979405e71ca1")
 		(property "Reference" "R14"
-			(at 297.942 239.268 90)
+			(at 295.402 239.268 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21696,7 +21696,7 @@
 		(dnp no)
 		(uuid "f98ec14a-bb6e-4bdf-af23-f04d39df1b70")
 		(property "Reference" "R13"
-			(at 295.91 244.856 90)
+			(at 294.64 244.856 90)
 			(effects
 				(font
 					(size 1.27 1.27)

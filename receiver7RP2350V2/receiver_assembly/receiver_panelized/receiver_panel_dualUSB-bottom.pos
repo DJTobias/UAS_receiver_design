@@ -1,0 +1,19 @@
+### Footprint positions - created on 2025-09-03T15:32:39-0400 ###
+### Printed by KiCad version 9.0.4-9.0.4-0~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref          Val                Package                            PosX       PosY       Rot  Side
+C1             100n               C_0402_1005Metric               27.0100   -18.2305    0.0000  bottom
+C2             100n               C_0402_1005Metric               19.9250   -31.2005    0.0000  bottom
+C3             4.7u               C_0402_1005Metric                8.0000   -31.3505    0.0000  bottom
+C4             100n               C_0402_1005Metric               30.5250   -31.2005  180.0000  bottom
+C5             100n               C_0402_1005Metric               25.1700   -18.2405  180.0000  bottom
+C24            100n               C_0402_1005Metric               39.3000   -23.1505   90.0000  bottom
+J2             NT4R1600           JAE_Electronics-NT4R1600-MFG     6.9000   -73.5505  180.0000  bottom
+J3             NT4R1600           JAE_Electronics-NT4R1600-MFG    31.1000   -73.5505  180.0000  bottom
+J6             MM60-52B1-E1-R650  MM6052B1E1R650_mod_screw        19.0000   -24.9005    0.0000  bottom
+KiKit_FID_B_1  Fiducial           Fiducial                         6.0000    -2.5000  180.0000  bottom
+KiKit_FID_B_2  Fiducial           Fiducial                        40.5000    -2.5000  180.0000  bottom
+KiKit_FID_B_3  Fiducial           Fiducial                         6.0000   -97.8515  180.0000  bottom
+KiKit_FID_B_4  Fiducial           Fiducial                        40.5000   -97.8515  180.0000  bottom
+## End

@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 1.2,
-          "width": 1.4
+          "height": 0.25,
+          "width": 0.31
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.15
+          "min_clearance": 0.005
         }
       },
       "diff_pair_dimensions": [
@@ -540,13 +540,13 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
+      "gencad": "receiver7RP2350V2.cad",
       "idf": "",
       "netlist": "",
-      "plot": "../../tf_receiver_assembly/",
-      "pos_files": "./receiverV5_positions2",
+      "plot": "receiver_assembly/receiver/",
+      "pos_files": "receiver_assembly/receiver/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "receiver7RP2350V2.stl",
       "svg": "",
       "vrml": ""
     },
@@ -633,6 +633,240 @@
           "group_by": false,
           "label": "Description",
           "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "AVAILABILITY",
+          "name": "AVAILABILITY",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Height",
+          "name": "Height",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Availability",
+          "name": "Availability",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MAXIMUM_PACKAGE_HEIGHT",
+          "name": "MAXIMUM_PACKAGE_HEIGHT",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MF",
+          "name": "MF",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MP",
+          "name": "MP",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer_Name",
+          "name": "Manufacturer_Name",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer_Part_Number",
+          "name": "Manufacturer_Part_Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Check_prices",
+          "name": "Check_prices",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Part Number",
+          "name": "Mouser Part Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Price/Stock",
+          "name": "Mouser Price/Stock",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PACKAGE",
+          "name": "PACKAGE",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PARTREV",
+          "name": "PARTREV",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PRICE",
+          "name": "PRICE",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PURCHASE-URL",
+          "name": "PURCHASE-URL",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Package",
+          "name": "Package",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Price",
+          "name": "Price",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "STANDARD",
+          "name": "STANDARD",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pin",
+          "name": "Sim.Pin",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SnapEDA_Link",
+          "name": "SnapEDA_Link",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "automotive",
+          "name": "automotive",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "category",
+          "name": "category",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "contact material",
+          "name": "contact material",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "device class L1",
+          "name": "device class L1",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "device class L2",
+          "name": "device class L2",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "device class L3",
+          "name": "device class L3",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "digikey description",
+          "name": "digikey description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "digikey part number",
+          "name": "digikey part number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "footprint url",
+          "name": "footprint url",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "is connector",
+          "name": "is connector",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "is female",
+          "name": "is female",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "lead free",
+          "name": "lead free",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "library id",
+          "name": "library id",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "manufacturer",
+          "name": "manufacturer",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "mouser description",
+          "name": "mouser description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "mouser part number",
+          "name": "mouser part number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "package",
+          "name": "package",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "rohs",
+          "name": "rohs",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "DESCRIPTION",
+          "name": "DESCRIPTION",
           "show": false
         }
       ],

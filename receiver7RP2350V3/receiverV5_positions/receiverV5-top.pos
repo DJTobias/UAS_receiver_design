@@ -1,0 +1,18 @@
+### Footprint positions - created on 2025-06-18T11:33:26-0400 ###
+### Printed by KiCad version 9.0.2-9.0.2-0~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val              Package                                           PosX       PosY       Rot  Side
+C1        10u              C_0805_2012Metric                             105.8500   -53.9000  -90.0000  top
+C7        100n             C_0402_1005Metric_Pad0.74x0.62mm_HandSolder   107.5000   -54.3000  -90.0000  top
+C8        10u              C_0805_2012Metric                             103.7500   -53.9000  -90.0000  top
+C9        100n             C_0402_1005Metric_Pad0.74x0.62mm_HandSolder    85.1675  -112.2500  180.0000  top
+C10       10u              C_0805_2012Metric                              85.4000  -110.6000    0.0000  top
+J1        Raspberry_Pi_4   PinHeader_2x20_P2.54mm_Vertical               107.7250   -54.8750    0.0000  top
+J2        adafruitpwr1000  adafruit_powerboost_1000                       82.0000   -92.5000   90.0000  top
+J4        S2B-PH-SM4-TB    CONN_S2B-PH-SM4-TB_JST_mod2                    79.5000   -59.5000  180.0000  top
+J5        S2B-PH-SM4-TB    CONN_S2B-PH-SM4-TB_JST_mod2                    68.5000   -59.5000  180.0000  top
+R5        3.3k             R_0402_1005Metric                              97.3500   -75.7000    0.0000  top
+R6        3.3k             R_0402_1005Metric                              97.3500   -78.3000    0.0000  top
+U3        Teensy4.1        Teensy41_min                                   94.2816   -87.1600   90.0000  top
+## End

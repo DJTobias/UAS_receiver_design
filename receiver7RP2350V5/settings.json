@@ -1,0 +1,30 @@
+{
+    "layout": {
+        "hspace": "2mm",
+        "vspace": "2mm"
+    },
+    "tabs": {
+        "type": "fixed",
+        "vwidth": "5mm",
+        "hwidth": "5mm"
+    },
+    "cuts": {
+        "type": "vcuts",
+        "offset": "-0.25mm"
+    },
+    "framing": {
+        "type": "railstb",
+        "vspace": "3mm",
+        "width": "8mm"
+    },
+    "tooling": {
+        "type": "4hole",
+        "hoffset": "3mm",
+        "voffset": "2.5mm"
+    },
+    "fiducials": {
+        "type": "4fid",
+        "hoffset": "6mm",
+        "voffset": "2.5mm"
+    }
+}
